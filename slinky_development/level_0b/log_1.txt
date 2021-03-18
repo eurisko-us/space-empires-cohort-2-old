@@ -56,27 +56,30 @@ BEGINNING OF TURN 3 COMBAT PHASE
 
 		Attacker: Player 1 Scout 1
 		Defender: Player 2 Scout 1
+		(Miss)
+
+		Attacker: Player 1 Scout 2
+		Defender: Player 2 Scout 1
 		Hit!
 		Player 2 Scout 1 was destroyed
 
-		Attacker: Player 1 Scout 2
+		Attacker: Player 1 Scout 3
 		Defender: Player 2 Scout 2
 		Hit!
 		Player 2 Scout 2 was destroyed
 
-		Attacker: Player 1 Scout 3
-		Defender: Player 2 Scout 3
-		(Miss)
-
 		Attacker: Player 2 Scout 3
 		Defender: Player 1 Scout 1
-		Hit!
-		Player 1 Scout 1 was destroyed
+		(Miss)
+
+		Attacker: Player 1 Scout 1
+		Defender: Player 2 Scout 3
+		(Miss)
 
 		Attacker: Player 1 Scout 2
 		Defender: Player 2 Scout 3
 		(Miss)
-
+		
 		Attacker: Player 1 Scout 3
 		Defender: Player 2 Scout 3
 		Hit!
@@ -86,6 +89,7 @@ BEGINNING OF TURN 3 COMBAT PHASE
 
 		(4, 4)
 
+			Player 1 Scout 1
 			Player 1 Scout 2
 			Player 1 Scout 3
 
@@ -93,6 +97,7 @@ END OF TURN 3 COMBAT PHASE
 
 BEGINNING OF TURN 4 MOVEMENT PHASE
 
+	Player 1 Scout 1: (4, 4) -> (4, 5)
 	Player 1 Scout 2: (4, 4) -> (4, 5)
 	Player 1 Scout 3: (4, 4) -> (4, 5)
 
@@ -104,6 +109,7 @@ END OF TURN 4 COMBAT PHASE
 
 BEGINNING OF TURN 5 MOVEMENT PHASE
 
+	Player 1 Scout 1: (4, 5) -> (4, 6)
 	Player 1 Scout 2: (4, 5) -> (4, 6)
 	Player 1 Scout 3: (4, 5) -> (4, 6)
 
@@ -115,6 +121,7 @@ END OF TURN 5 COMBAT PHASE
 
 BEGINNING OF TURN 6 MOVEMENT PHASE
 
+	Player 1 Scout 1: (4, 6) -> (4, 7)
 	Player 1 Scout 2: (4, 6) -> (4, 7)
 	Player 1 Scout 3: (4, 6) -> (4, 7)
 
